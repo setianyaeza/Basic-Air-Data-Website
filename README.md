@@ -1,0 +1,2 @@
+# Basic-Air-Data-Website
+The Basic Air Data project maintains a suite of open-source hardware and software for air properties measurement. Amateur metrologists, makers, or RC fans are the typical users. The Air Data Computers applications range from meteorology to biking and include HVAC and metering. Within this units the raw air data measurements, like pressure and temperature, are elaborated to provide one or more derived quantities; for example the true airspeed (TAS). Android GPSLogger and other support software were developed on purpose.
